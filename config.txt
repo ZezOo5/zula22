@@ -2,6 +2,6 @@
 owner=464025572071178241
 prefix=!!
 game= !!help
-stayinchannel=true
-songinstatus=true 
+stayinchannel=false
+songinstatus=false
 token=NTEyNjE2MjYyNDEzNTgyMzQ2.DtHO8Q.WLEJg7Kq6OVDV09bKgP02qtrsdU
