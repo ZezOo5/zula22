@@ -1,0 +1,6 @@
+﻿token=NTEyNjE2MjYyNDEzNTgyMzQ2.DtHO8Q.WLEJg7Kq6OVDV09bKgP02qtrsdU
+owner=464025572071178241
+prefix=!!
+game= !!help
+stayinchannel=true
+songinstatus=true 
