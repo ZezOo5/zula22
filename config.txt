@@ -1,7 +1,7 @@
-?token=NDk4MjUxNTE3MDA2OTcwOTAw.DwK9kQ.gDhJAsCfMDXL5qpkPnGczYz6huk
-owner=345276694191669248
+?token=NTEyNjE2MjYyNDEzNTgyMzQ2.Dx3bEw.d1nOqTzaJIONOd59YNPFs1IdjGw
+owner=464025572071178241
 prefix=2
 game= Type 2help
 stayinchannel=true
 songinstatus=false
-token=NDk4MjUxNTE3MDA2OTcwOTAw.DwK9kQ.gDhJAsCfMDXL5qpkPnGczYz6huk
+token=NTEyNjE2MjYyNDEzNTgyMzQ2.Dx3bEw.d1nOqTzaJIONOd59YNPFs1IdjGw
