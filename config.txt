@@ -1,6 +1,6 @@
 ?token=NTEyNjE2MjYyNDEzNTgyMzQ2.Dx3bEw.d1nOqTzaJIONOd59YNPFs1IdjGw
 owner=464025572071178241
-prefix=k
+prefix= k
 game= Type khelp
 stayinchannel=true
 songinstatus=false
