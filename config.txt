@@ -1,7 +1,0 @@
-?token=NTEyNjE2MjYyNDEzNTgyMzQ2.Dx3g1A.y0mqV9NtIXSHGy-i9F57IUvhg6E
-owner=464025572071178241
-prefix= 2
-game= Type 2help
-stayinchannel=true
-songinstatus=true
-token=NTEyNjE2MjYyNDEzNTgyMzQ2.Dx3g1A.y0mqV9NtIXSHGy-i9F57IUvhg6E
